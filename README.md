@@ -17,7 +17,7 @@
 ## 🖼 效果展示 (Sample Show)
 
 ### 1. 动漫风格线稿
-智能解析二次元特征，线条流畅，比例精准。
+智能解析二次元特征，线条流畅，比例精准
 | 示例 1 | 示例 2 |
 | :--- | :--- |
 | ![动漫线稿1](https://img.sipingseo.com/file/line-art/BZFZbHBr.webp) | ![动漫线稿2](https://img.sipingseo.com/file/line-art/kNvZZTDW.webp) |
