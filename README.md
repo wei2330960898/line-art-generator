@@ -23,7 +23,7 @@
 | ![动漫线稿1](https://img.sipingseo.com/file/line-art/BZFZbHBr.webp) | ![动漫线稿2](https://img.sipingseo.com/file/line-art/kNvZZTDW.webp) |
 
 ### 2. 建筑与空间结构
-一键提取复杂建筑的透视线稿，是设计师与绘画爱好者的写生助手
+一键提取复杂建筑的透视线稿，是设计师与绘画爱好者的写生助手 。
 | 现代建筑 | 古典建筑 |
 | :--- | :--- |
 | ![建筑线稿1](https://img.sipingseo.com/file/line-art/aLo1ZwMg.webp) | ![建筑线稿2](https://img.sipingseo.com/file/line-art/mPu2NmIA.webp) |
