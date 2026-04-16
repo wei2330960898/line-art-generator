@@ -28,8 +28,8 @@
 | :--- | :--- |
 | ![建筑线稿1](https://img.sipingseo.com/file/line-art/aLo1ZwMg.webp) | ![建筑线稿2](https://img.sipingseo.com/file/line-art/mPu2NmIA.webp) |
 
-### 3. 产品工业设计
-清晰呈现产品结构细节，助力工业设计提案与分析
+### 3. 产品工业设计 
+清晰呈现产品结构细节，助力工业设计提案与分析 。
 | 电子产品 | 家具设计 |
 | :--- | :--- |
 | ![产品线稿1](https://img.sipingseo.com/file/line-art/cXkwUt0c.webp) | ![产品线稿2](https://img.sipingseo.com/file/line-art/FwpAYVtj.webp) |
