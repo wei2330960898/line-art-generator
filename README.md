@@ -40,7 +40,7 @@
 - **Nano Banana Pro**：最火模型，适合简约线条与卡通线稿
 - **Flux-Kontext**：经典写实，专攻建筑与精细机械结构
 - **Seedream 5 (豆包)**：处理复杂细节，线条层次分明
-- **GPT-Image / Z-Image-Turbo**：针对风格化创作进行深度优化。
+- **GPT-Image / Z-Image-Turbo**：针对风格化创作进行深度优化
 
 ## 📖 使用指南
 
